@@ -1,0 +1,9 @@
+
+.completed-text {
+    color: green; /* Change color for completed tasks */
+  }
+  
+  /* For incomplete tasks */
+  .incomplete-text {
+    color: black; /* Default color for incomplete tasks */
+  }
